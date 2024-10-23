@@ -1,0 +1,15 @@
+PRONÓSTICO,TEMPERATURA,HUMEDAD,VIENTO,JUGAR
+Soleado,Caluroso,Alta,FALSO,No
+Soleado,Caluroso,Alta,VERDADERO,No
+Nublado,Caluroso,Alta,FALSO,Si
+Lluvia,Templado,Alta,FALSO,Si
+Lluvia,Frío,Normal,FALSO,Si
+Lluvia,Frío,Normal,VERDADERO,No
+Nublado,Frío,Normal,VERDADERO,Si
+Soleado,Templado,Alta,FALSO,No
+Soleado,Frío,Normal,FALSO,Si
+Lluvia,Templado,Normal,FALSO,Si
+Soleado,Templado,Normal,VERDADERO,Si
+Nublado,Templado,Alta,VERDADERO,Si
+Nublado,Caluroso,Normal,FALSO,Si
+Lluvia,Templado,Alta,VERDADERO,No
