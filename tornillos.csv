@@ -1,0 +1,12 @@
+longitud,diametro,clase
+4,1,normal
+6,1.5,normal
+10,1,defectuoso
+12,2,defectuoso
+14,2,defectuoso
+4,3,normal
+6,3,normal
+6,4,normal
+10,3,defectuoso
+14,4,defectuoso
+2,4,defectuoso
